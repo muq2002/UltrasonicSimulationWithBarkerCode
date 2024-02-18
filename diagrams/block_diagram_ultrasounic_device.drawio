@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2023-10-06T15:12:18.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="bKKA4utDeVOSUFHsm7lz" version="21.6.8" type="device">
+  <diagram name="Page-1" id="MQKqOiRzqr-8SJ2OvxWo">
+    <mxGraphModel dx="794" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cULvJuX6k4OPCPoemC0x-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cULvJuX6k4OPCPoemC0x-1" target="cULvJuX6k4OPCPoemC0x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-1" value="DDS (Ship)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-2" value="Transducer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cULvJuX6k4OPCPoemC0x-3" target="cULvJuX6k4OPCPoemC0x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-3" value="Receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-4" value="Display" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cULvJuX6k4OPCPoemC0x-5" target="cULvJuX6k4OPCPoemC0x-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cULvJuX6k4OPCPoemC0x-5" target="cULvJuX6k4OPCPoemC0x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-5" value="Control Unit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-6" value="Power Supply" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cULvJuX6k4OPCPoemC0x-13" target="cULvJuX6k4OPCPoemC0x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cULvJuX6k4OPCPoemC0x-13" value="Buttons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
